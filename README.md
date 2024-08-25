@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SharePointFramework projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MVP**
 
 - 📫 How to reach me **ochotnicky.simon1@gmail.com**
 
