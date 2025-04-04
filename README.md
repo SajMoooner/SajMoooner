@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate SharePoint developer from Slovakia</h3>
+<h1 align="center">Hi 👋, I'm Simon, Vibe Coder</h1>
+<h3 align="center">A passionate Vibe Coder from Slovakia</h3>
 
-- 🔭 I’m currently working on **SharePointFramework projects**
+- 🔭 I’m currently working on **How to iterate through MVP**
 
-- 🌱 I’m currently learning **MVP**
+- 🌱 I’m currently learning **Minimal Valuable Product**
 
 - 📫 How to reach me **ochotnicky.simon1@gmail.com**
 
